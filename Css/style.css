@@ -1,3 +1,8 @@
-.button {
-    background-color: #fff;
+.regulor-button {
+    background-color: #3F87F5;
+    color: #fff;
+}
+
+.flex-container img {
+    width: 100%;
 }
