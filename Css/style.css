@@ -23,3 +23,8 @@
     color: #3F87F5;
     background-color: #FDF4FA;
 }
+
+.hover:hover {
+    background-color: #3F87F5;
+    color: #fff;
+}
